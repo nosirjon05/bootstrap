@@ -1,0 +1,40 @@
+.hero {
+  background-color: #6551cbff;
+}
+
+.hero__box {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.hero__title {
+  width: 480px;
+  color: white;
+  font-size: 55px;
+}
+
+.hero__text {
+  color: white;
+  width: 523px;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.hero__box-link {
+  width: 155px;
+  height: 45px;
+  border-radius: 10px;
+  border: none;
+  background-color: #02B875ff;
+  color: white;
+}
+
+.hero__link {
+  color: white;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.hero__img {
+  border-radius: 10px;
+}

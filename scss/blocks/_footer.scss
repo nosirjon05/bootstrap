@@ -1,0 +1,33 @@
+.footer {
+  background-color: #212529;
+}
+
+.footer__box {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.footer__text {
+  color: white;
+  width: 205px;
+  margin-top: 50px;
+}
+
+.footer__title {
+  color: white;
+}
+
+.footer__list {
+  padding: 0px;
+  margin-top: 30px;
+  list-style-type: none;
+}
+
+.footer__item {
+  margin-right: 50px;
+  color: gray;
+}
+
+.footer__item:hover {
+  color: white;
+}

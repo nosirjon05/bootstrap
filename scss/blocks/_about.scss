@@ -1,0 +1,28 @@
+.about__box {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.about__text {
+  font-size: 20px;
+}
+
+.about__list {
+  margin-top: 45px;
+  margin-bottom: 60px;
+  list-style-type: none;
+}
+
+.about__item {
+  text-align: start;
+}
+
+.about__img {
+  margin-bottom: 25px;
+  border-radius: 10px;
+  transition: 0.5s ease;
+}
+
+.about__img:hover {
+  box-shadow: 0px 10px gray;
+}
